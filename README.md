@@ -1,2 +1,2 @@
 # GitHub-Examples
-Repo containing for GitHub Programmatic examples
+A Repo containing for GitHub Programmatic examples
